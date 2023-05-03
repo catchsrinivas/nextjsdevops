@@ -1,0 +1,1 @@
+AZURE_TOKEN = "A6dkj*#KNSDFAKJK"
